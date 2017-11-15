@@ -1,0 +1,36 @@
+h2 {
+  font-family: 'Lato', sans-serif;
+  Font-size: 30px;
+}
+/*Box*/
+#box {
+  background-color: #F4F4F4;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 100px auto;
+  width: 600px;
+}
+/*form part */
+form {
+  display: inline-block;
+}
+.scratch {
+  text-decoration: line-through;
+  font-weight: bold;
+  color: #ACACAC;
+}
+.btn {
+  margin-top: 20px;
+}
+/* list part*/
+#lists {
+  padding: 5px;
+}
+.list {
+  font-family: 'Dosis', sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+}
